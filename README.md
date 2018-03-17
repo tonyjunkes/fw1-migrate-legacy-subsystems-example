@@ -1,5 +1,7 @@
 # Migrating Legacy FW/1 Subsystems
 
+http://tonyjunkes.com/blog/migrating-legacy-fw1-subsystems/
+
 ### How to use:
 
 - Make sure you have [Commandbox installed](https://commandbox.ortusbooks.com/content/setup/installation.html).
