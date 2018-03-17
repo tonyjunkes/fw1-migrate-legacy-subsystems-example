@@ -1,0 +1,12 @@
+{
+    "name":"legacy",
+    "version":"0.1.0",
+    "author":"Tony Junkes",
+    "homepage":"http://tonyjunkes.com/blog/migrating-legacy-fw1-subsystems",
+    "dependencies":{
+        "fw1":"be"
+    },
+    "installPaths":{
+        "fw1":"framework"
+    }
+}
